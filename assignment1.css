@@ -1,0 +1,59 @@
+h1
+{
+    margin:0px;
+}
+#id1
+{
+    margin-top:0px;
+}
+#id2
+{
+    text-align: center;
+}
+.class2
+{
+    
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    position:relative;
+    right:70px;
+}
+.class1
+{
+    color: #660000;
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+}
+#id4
+{
+    position:relative;
+    bottom: 40px;
+}
+#id5
+{
+    position:relative;
+    bottom: 20px;
+}
+.class3
+{
+    background-color: lightgrey;
+}
+#id6
+{
+    font-family: Verdana, Arial, Helvetica, sans-serif;
+    position:relative;
+    right:70px;
+    color: black;
+}
+.class4
+{
+    color:black;
+    font-family:Verdana, Arial, Helvetica, sans-serif ;
+}
+.class5
+{
+    color:blue;
+}
+.class6
+{
+    background-color:lightgrey;
+}
